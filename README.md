@@ -1,8 +1,10 @@
-👋  I’m Benjamin Cai, an aspiring software developer, full-stack engineer and guitarist 🎸.
+Welcome to my repo 👋, my name's Benjamin Cai, an aspiring software developer, full-stack engineer and guitarist  🎸.
 
 🏗  Current developments are mostly focused on developing projects with JavaScipt or React on the frontend and Node.js as the backend. 
-🚀  Personally interests include all things crypto.
-⾦  Lately, I've also been learning and enjoying Rust and reading "the book".
+
+🚀  Personal interests include all things crypto.
+
+⾦  Lately, I've also been learning Rust and enjoying reading "the book".
 
 
 <!---
